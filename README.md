@@ -1,9 +1,10 @@
 ## Timers 
 
 Timers is a single-page application that allows the user to create countdown timers.
-Each timer works independently, and the user can see the countdown in real time.
 
-To implement this functionality, a closure for time management, an asynchronous setInterval function were used.
+View the application at the [link](https://xyzelena.github.io/timers/)
+
+Each timer works independently, and the user can see the countdown in real time. To implement this functionality, a closure for time management, an asynchronous setInterval function were used.
 
 ### Working example:
 
@@ -15,6 +16,7 @@ To implement this functionality, a closure for time management, an asynchronous 
 ### Stack: 
 
 Pure JavaScript, HTML and CSS (no libraries).
+
 
 <img width="429" alt="image" src="https://github.com/user-attachments/assets/582cb800-33f1-451a-bd00-585976b31ac1">
 
