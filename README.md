@@ -15,3 +15,7 @@ To implement this functionality, a closure for time management, an asynchronous 
 ### Stack: 
 
 Pure JavaScript, HTML and CSS (no libraries).
+
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/582cb800-33f1-451a-bd00-585976b31ac1">
+
+
